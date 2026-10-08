@@ -38,7 +38,7 @@ El análisis de divergencia filogenética arroja dos niveles de distancia evolut
 En el árbol de Máxima Verosimilitud, **`LbotAOX1`** presenta la mayor longitud de rama (distancia genética acumulada) respecto al nodo de origen del grupo de las AOX1. Esto indica un mayor índice de sustituciones aminoacídicas y una mayor tasa de divergencia evolutiva en comparación con las secuencias restantes, las cuales forman un clado estrechamente emparentado[cite: 1].
 
 ![Árbol Filogenético AOX](./resultados/arbol_filogenetico.png)  
-*Figura 2. Reconstrucción filogenética de las secuencias de AOX1 y el clado externo AOX2.*[cite: 1]
+*Figura 2. Reconstrucción filogenética de las secuencias de AOX1 y el clado externo AOX2.*
 
 ---
 
